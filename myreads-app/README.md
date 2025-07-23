@@ -8,6 +8,7 @@ Of course, you are free to start this project from scratch if you wish! Just be 
 
 To get started developing right away:
 
+- navigate to the myreads-app/myreads-app folder, your path after running `pwd` in the terminal should look like **"*/myreads-app/myreads-app"** to run the application
 - install all project dependencies with `npm install`
 - start the development server with `npm start`
 
